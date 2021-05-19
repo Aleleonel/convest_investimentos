@@ -2,7 +2,7 @@ from pprint import pprint
 import sqlite3
 from alpha_vantage.timeseries import TimeSeries
 
-alpha_key = "3805c260a7msh9bce303ca04db34p1681dbjsn37063ab07c3b"
+alpha_key = ""
 
 
 def importacao():
